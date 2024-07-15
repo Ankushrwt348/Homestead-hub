@@ -5,8 +5,7 @@ import photo from '../assets/main.jpg'
 
 const Main = () => {
     return (
-        <>
-            <div></div>
+        <div name='Main'>
             <div className='mt-6 lg:mt-24 w-full flex-col flex justify-center items-center'>
                 <div className='lg:space-y-10 space-y-7 m-10'>
                     <h1 className="text-4xl sm:text-6xl lg:text-7xl text-center tracking-wide">Ac Repair & <span className='bg-gradient-to-r from-orange-500 to-orange-900 text-transparent bg-clip-text'>Service</span> </h1>
@@ -22,7 +21,7 @@ const Main = () => {
                 </div>
                 
             </div>
-        </>
+        </div>
     )
 }
 

@@ -3,7 +3,7 @@ import React from 'react'
 
 const Pricing = () => {
     return (
-        <div className='mt-20 border-b border-neutral-800'>
+        <div className='mt-20 border-b border-neutral-800 ' name='Pricing'>
             <h2 className='text-3xl sm:text-5xl lg:text-6xl text-center tracking-wider my-8'>Pricing</h2>
             <div className='flex flex-wrap justify-center items-center space-x-6'>
                 <div className=' p-8 w-full sm:w-1/2 lg:w-1/4' >

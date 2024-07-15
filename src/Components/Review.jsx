@@ -9,7 +9,7 @@ import user6 from '../assets/profile-pictures/user6.jpg'
 
 const Review = () => {
     return (
-        <div className='mt-10 tracking-wide'>
+        <div className='mt-10 tracking-wide' name='Review'>
             <h2 className='text-3xl sm:text-5xl lg:text-6xl text-center py-10 lg:py-10'>What people are saying</h2>
             <div className='flex flex-wrap justify-center'>
             <div className='w-full sm:w-1/2 lg:w-1/3 px-4 py-2'>
